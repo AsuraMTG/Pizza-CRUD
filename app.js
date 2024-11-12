@@ -150,7 +150,6 @@ app.listen(3000, () => {
     console.log('A szerver elindult a 3000-es porton.');
 });
 
-
 /*  
     Express
     Az express keretrendszer egy ingyenes, nyílt forráskódú, többplatformos JavaScript futtatókörnyezet, 
